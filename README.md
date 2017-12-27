@@ -1,3 +1,10 @@
+This small reactjs project is part of Hasura Product Development Fellowship Task - 1
+In this project two webpages have been cloned :
+Main timeline: https://twitter.com
+Search results: https://twitter.com/search?q=aadhaar
+
+There is a dummy search funtionality to go to the Aadhaar page and then user can come back to home-page as well.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
