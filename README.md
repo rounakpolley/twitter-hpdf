@@ -9,6 +9,7 @@ Search results: https://twitter.com/search?q=aadhaar
 There is a dummy search funtionality to go to the Aadhaar page and then user can come back to home-page as well.
 
 Material ui has been used for this project http://www.material-ui.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
